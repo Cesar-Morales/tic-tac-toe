@@ -12,7 +12,7 @@
 - Calculate Winner
 - Deploy on Github Page
 
-### Code extension
+### VS-Code extension
 
 - ES7 snippets
 - eslint
